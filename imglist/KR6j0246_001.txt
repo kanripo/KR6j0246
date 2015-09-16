@@ -1,0 +1,3 @@
+001-0044a24	TKD 34-0094c	buddhist/K-koreana/34-tif/0000-0099/34_0094_C.TIF
+001-0044b19	TKD 34-0095a	buddhist/K-koreana/34-tif/0000-0099/34_0095_A.TIF
+001-0044b00	T 001-0044b	buddhist/T-taisho/T20/00/T20-0044.png
